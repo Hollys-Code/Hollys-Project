@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-a = {1: one , 2: two, 3:three, 4:four};
+var a = {1: one , 2: two, 3:three, 4:four};
 console.log(a.1)
